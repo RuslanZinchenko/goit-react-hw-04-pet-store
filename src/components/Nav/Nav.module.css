@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(77, 76, 76);
+  padding: 15px 0 15px 40px;
+  margin: 10px 0 20px 0;
+}
+
+.listItem {
+  margin-right: 30px;
+  font-size: 25px;
+}
+
+.static {
+  color: #fff;
+}
+.active {
+  color: #fd3b3b;
+}

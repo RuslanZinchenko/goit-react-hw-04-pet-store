@@ -1,0 +1,16 @@
+.aboutContainer {
+  margin: 0 auto;
+  margin: 70px 110px 0 110px;
+}
+
+.about {
+  color: rgb(77, 76, 76);
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.aboutItem {
+  font-size: 20px;
+  color: rgb(77, 76, 76);
+  margin-bottom: 20px;
+}
