@@ -1,1 +1,0 @@
-{"version":3,"sources":["Home.module.css"],"names":[],"mappings":"AAAA,kBACE,WAAY,CAEZ,iBAAe,CACf,aAAsB,CACtB,cACF","file":"home-page.f5ba8185.chunk.css","sourcesContent":[".home {\n  width: 500px;\n  margin: 0 auto;\n  margin-top: 25%;\n  color: rgb(77, 76, 76);\n  font-size: 35px;\n}\n"]}
