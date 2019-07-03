@@ -52,7 +52,6 @@ const App = () => {
         <Route path="/pets/:id" component={AsyncPetPage} />
         <Route path="/pets" component={AsyncPetsPage} />
         <Route path="/about" component={AsyncAboutPage} />
-        <Route component={AsyncHomePage} />
         <Redirect from="*" to="/" />
       </Switch>
     </div>
