@@ -1,5 +1,5 @@
 import React from 'react';
-import { Route, Switch } from 'react-router-dom';
+import { Route, Switch, Redirect } from 'react-router-dom';
 import Loadable from 'react-loadable';
 import Loader from './Loader/Loader';
 import Nav from './Nav/Nav';
@@ -53,6 +53,7 @@ const App = () => {
         <Route path="/pets" component={AsyncPetsPage} />
         <Route path="/about" component={AsyncAboutPage} />
         <Route component={AsyncHomePage} />
+        <Redirect from="*" to="/" />
       </Switch>
     </div>
   );

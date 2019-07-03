@@ -30,7 +30,7 @@ export default class PetPage extends Component {
       return history.push(location.state.from);
     }
 
-    return history.push('/articles');
+    return history.push('/pets');
   };
 
   render() {
