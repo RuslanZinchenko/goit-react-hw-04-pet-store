@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03a8b9c0d8ce40d4323ce0124e5557a9",
+    "revision": "deeb7e73a36a9cd3859a4c7c84913fcd",
     "url": "/goit-react-hw-04-pet-store/index.html"
   },
   {
@@ -20,11 +20,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goit-react-hw-04-pet-store/static/css/main.1962c9e3.chunk.css"
   },
   {
-    "revision": "ca0e574617186681813c",
+    "revision": "4585da9bfc7132a3b26b",
     "url": "/goit-react-hw-04-pet-store/static/css/pet-page.5575ecf8.chunk.css"
   },
   {
-    "revision": "728ea05a19633560b89a",
+    "revision": "cbaa1f62a5ec42ee86c9",
     "url": "/goit-react-hw-04-pet-store/static/css/pets-page.ac825bc3.chunk.css"
   },
   {
@@ -44,15 +44,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goit-react-hw-04-pet-store/static/js/main.612c96e1.chunk.js"
   },
   {
-    "revision": "ca0e574617186681813c",
-    "url": "/goit-react-hw-04-pet-store/static/js/pet-page.0edcd342.chunk.js"
+    "revision": "4585da9bfc7132a3b26b",
+    "url": "/goit-react-hw-04-pet-store/static/js/pet-page.c18390ef.chunk.js"
   },
   {
-    "revision": "728ea05a19633560b89a",
-    "url": "/goit-react-hw-04-pet-store/static/js/pets-page.4bb95cf5.chunk.js"
+    "revision": "cbaa1f62a5ec42ee86c9",
+    "url": "/goit-react-hw-04-pet-store/static/js/pets-page.6986932c.chunk.js"
   },
   {
-    "revision": "6ed4420ba057f397a965",
-    "url": "/goit-react-hw-04-pet-store/static/js/runtime~main.7dffcde6.js"
+    "revision": "c9782e723e99635f84c2",
+    "url": "/goit-react-hw-04-pet-store/static/js/runtime~main.aa8b9dec.js"
   }
 ]);
